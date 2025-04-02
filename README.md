@@ -27,12 +27,6 @@ cd 22051302/average-calculator
 npm install
 ```
 
-## Usage
-
-Start the server:
-```bash
-npm start
-```
 
 ## Dependencies
 
